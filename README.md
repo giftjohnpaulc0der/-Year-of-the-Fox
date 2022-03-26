@@ -1,3 +1,3 @@
 Tryhackme Writeups
 
-This project is the Solutions for various Tryhackme Machines, which I've completed so far!!
+This project is the Solution for various Tryhackme Machines, which I've completed so far!!
