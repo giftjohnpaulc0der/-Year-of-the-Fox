@@ -1,2 +1,2 @@
-# -Year-of-the-Fox
+# Year-of-the-Fox
 Don't underestimate the sly old fox...
