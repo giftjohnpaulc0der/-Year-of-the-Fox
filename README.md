@@ -1,2 +1,3 @@
-# Year-of-the-Fox
-Don't underestimate the sly old fox...
+Tryhackme Writeups
+
+This project is the Writeup for various Tryhackme Machines
