@@ -6,3 +6,4 @@ Please check out the rooms on Tryhackme with the following links below:
 
 
 [Year of the Fox] (https://tryhackme.com/room/yotf)
+[Year of the Jellyfish] (https://tryhackme.com/room/yearofthejellyfish)
